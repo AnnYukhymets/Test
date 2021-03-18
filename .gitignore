@@ -1,5 +1,12 @@
-# Object file
-*.o
+# Created by https://www.toptal.com/developers/gitignore/api/adobe
+# Edit at https://www.toptal.com/developers/gitignore?templates=adobe
 
-# Ada Library Information
-*.ali
+### Adobe ###
+# Adobe Source Files
+*.psd
+*.ai
+*.indd
+*.prproj
+*.aep
+
+# End of https://www.toptal.com/developers/gitignore/api/adobe
