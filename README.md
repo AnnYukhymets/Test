@@ -1,1 +1,12 @@
-# Test
+# Created by https://www.toptal.com/developers/gitignore/api/adobe
+# Edit at https://www.toptal.com/developers/gitignore?templates=adobe
+
+### Adobe ###
+# Adobe Source Files
+*.psd
+*.ai
+*.indd
+*.prproj
+*.aep
+
+# End of https://www.toptal.com/developers/gitignore/api/adobe
