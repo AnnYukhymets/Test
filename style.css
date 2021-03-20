@@ -1,9 +1,9 @@
 body {
     background-color: pink;
 }
-button {
+button :right {
     color: aquamarine;
 }
-button {
+button :left {
     color: brown;
 }
